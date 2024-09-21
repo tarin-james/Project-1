@@ -4,8 +4,12 @@
   "description": "week1 and 2",
   "main": "server.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "start": "node server.js"
   },
   "author": "Tarin James",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
